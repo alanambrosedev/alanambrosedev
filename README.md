@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on web development<br>👯 I’m looking to collaborate on laravel & PHP development<br>🌱 I’m currently learning Frontend React<br>💬 Ask me about Laravel<br>⚡ Fun fact - I love smart work than hard work
+🔭 I’m currently working on web development<br>👯 I’m looking to collaborate on laravel & PHP development<br>🌱 I’m currently learning React<br>💬 Ask me about Laravel<br>⚡ Fun fact - I love smart work than hard work
 
 
 ## 🌐 Socials:
@@ -21,8 +21,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=alanambrosedev&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alanambrosedev&icon=0&color=0)](https://visitcount.itsvg.in)
