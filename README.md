@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on web development<br>👯 I’m looking to collaborate on laravel & PHP development<br>🌱 I’m currently learning React<br>💬 Ask me about Laravel<br>⚡ Fun fact - I love smart work than hard work
+🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on Laravel & PHP development<br>🌱 I’m currently learning React<br>💬 Ask me about Laravel<br>⚡ Fun fact - I love smart work than hard work
 
 
 ## 🌐 Socials:
